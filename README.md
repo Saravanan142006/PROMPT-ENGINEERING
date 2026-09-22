@@ -16,7 +16,6 @@ Develop a comprehensive report for the following exercises:
 ## 1. Foundational Concepts of Generative AI  
 
 Generative AI refers to algorithms that can generate new content, including text, images, music, and other types of data. The key concepts underpinning generative AI include:  
-
 ### 1.1. Definition  
 Generative AI systems are designed to understand and mimic patterns in existing data to produce new, synthetic examples that resemble the training data.   
 ![image](https://github.com/user-attachments/assets/e87ecb25-46b5-430d-9e6e-496342290e49)
